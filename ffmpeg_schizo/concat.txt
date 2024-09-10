@@ -1,0 +1,17 @@
+file frames/black_frame.jpg
+duration 1.25
+file frames/white_frame.jpg
+duration 1.25
+file frames/black_frame.jpg
+duration 1.25
+file frames/white_frame.jpg
+duration 1.25
+file frames/black_frame.jpg
+duration 1.25
+file frames/white_frame.jpg
+duration 1.25
+file frames/black_frame.jpg
+duration 1.25
+file frames/white_frame.jpg
+duration 1.25
+file frames/white_frame.jpg
