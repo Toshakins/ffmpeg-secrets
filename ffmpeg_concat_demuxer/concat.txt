@@ -1,11 +1,11 @@
 file frames/black_frame.jpg
-duration 1.67
+duration 1.667
 file frames/white_frame.jpg
-duration 1.67
+duration 1.667
 file frames/black_frame.jpg
-duration 1.67
+duration 1.667
 file frames/black_frame.jpg
-duration 2.50
+duration 2.500
 file frames/white_frame.jpg
-duration 2.50
+duration 2.500
 file frames/white_frame.jpg
